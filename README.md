@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank">
         <img src="https://github.com/RinaDragon/RinaDragon/blob/main/python.svg?short_path=9d6cfe6" width="30" height="30"/>
+  </a>
+  <a href="https://www.css3.org/" target="_blank">
+        <img src="https://github.com/RinaDragon/RinaDragon/blob/main/css3.svg" width="30" height="30"/>
   </a>
