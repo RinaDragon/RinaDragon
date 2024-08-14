@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%23F7479B&lines=Keshia+Machaca+Cornejo+(RinaDragon)"></p>
 
+<p align="center"><a><img src="https://raw.githubusercontent.com/RinaDragon/RinaDragon/main/RinaDragon.jpg" width="200"></a></p>
+
+
 <br>
 
 <h3 align="center">Tecnologías que uso y sigo aprendiendo</h3>
