@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">Tecnologías que uso y sigo aprendiendo</h3>
+
+<p align="center">
+
+  <a href="https://www.linux.org/" target="_blank">
+        <img src="https://github.com/RinaDragon/RinaDragon/blob/main/python.svg?short_path=9d6cfe6" width="30" height="30"/>
+  </a>
