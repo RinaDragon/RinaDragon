@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%23F7479B&lines=Keshia+Machaca+Cornejo+(RinaDragon)"></p>
 
-[![Dise-o-sin-t-tulo-21.png](https://i.postimg.cc/Cx1fKs00/Dise-o-sin-t-tulo-21.png)](https://postimg.cc/ppwdG8yc)
+<p align="center"> <img src="[![Dise-o-sin-t-tulo-21.png](https://i.postimg.cc/Cx1fKs00/Dise-o-sin-t-tulo-21.png)](https://postimg.cc/ppwdG8yc)"></p>
 
 <br>
 
