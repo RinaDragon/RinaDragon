@@ -55,3 +55,22 @@ Here are some ideas to get you started:
    <a  href="https://www.figma.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/figma.svg" width="30" height="30"/>
     </a>
+
+ <h3 align="center">Follow me</h3>
+
+<p align="center">
+      <a href="https://www.linkedin.com/in/keshia-m-cornejo1/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/linkedin.svg" height="30" width="30">
+      </a>
+      <a href="https://www.instagram.com/rinadragon_/" target="_blank">
+        <img  src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/instagram.svg" height="30" width="30">
+      </a>
+      <a href="https://www.facebook.com/profile.php?id=100081505006666" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/facebook.svg" height="30" width="30">
+      </a>
+      <a href="https://www.pinterest.com/keshia66/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/pinterest.svg" height="30" width="30">
+      </a>
+   
+      
+</p>   
