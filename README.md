@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%23F7479B&lines=Keshia+Machaca+Cornejo+(RinaDragon)"></p>
 
-<p align="center"><a><img src="https://raw.githubusercontent.com/RinaDragon/RinaDragon/main/RinaDragon.jpg" width="200"></a></p>
+<p align="center"><a><img src="[![keshia.jpg](https://i.postimg.cc/SNyN24XW/keshia.jpg)](https://postimg.cc/py6t4gJT)" width="200"></a></p>
 
 
 <br>
