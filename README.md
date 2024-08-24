@@ -31,6 +31,9 @@ Here are some ideas to get you started:
   <a href="https://www.css3.org/" target="_blank">
         <img src="https://github.com/RinaDragon/RinaDragon/blob/main/css3.svg" width="30" height="30"/>
     </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/html5.svg" width="30" height="30"/>
+    </a>  
   <a href="https://ubuntu.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/c8b99481dda545c8a48e272303856b8ef59a8617/ubuntu.svg" width="30" height="30"/>
     </a>
@@ -48,4 +51,7 @@ Here are some ideas to get you started:
     </a>
    <a  href="https://github.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/github.png" width="30" height="30"/>
+    </a>
+   <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/vscode.svg" width="30" height="30"/>
     </a>
