@@ -69,8 +69,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/facebook.svg" height="30" width="30">
       </a>
       <a href="https://www.pinterest.com/keshia66/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/pinterest.svg" height="30" width="30">
+        <img src="pinterest.svg" height="30" width="30">
       </a>
-   
-      
+
 </p>   
