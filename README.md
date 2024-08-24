@@ -27,10 +27,19 @@ Here are some ideas to get you started:
 
   <a href="https://www.python.org/" target="_blank">
         <img src="https://github.com/RinaDragon/RinaDragon/blob/main/python.svg?short_path=9d6cfe6" width="30" height="30"/>
-  </a>
+    </a>
   <a href="https://www.css3.org/" target="_blank">
         <img src="https://github.com/RinaDragon/RinaDragon/blob/main/css3.svg" width="30" height="30"/>
-  </a>
-    <a href="https://ubuntu.com/" target="_blank">
+    </a>
+  <a href="https://ubuntu.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/c8b99481dda545c8a48e272303856b8ef59a8617/ubuntu.svg" width="30" height="30"/>
     </a>
+  <a  href="https://www.figma.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/figma.svg" width="30" height="30"/>
+    </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e9eea351d25da370259752252f2adae4e9c0630a/mongodb.svg" width="30" height="30"/>
+    </a>
+   <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/mysql.svg" width="30" height="30"/>
+    </a> 
