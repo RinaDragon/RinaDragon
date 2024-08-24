@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -->
 ![](https://hit.yhype.me/github/profile?user_id=44757651)
 
-[![keshia.jpg](https://i.postimg.cc/SNyN24XW/keshia.jpg)](https://postimg.cc/py6t4gJT)
-
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%23F7479B&lines=Keshia+Machaca+Cornejo+(RinaDragon)"></p>
 
-
-
+[![keshia.jpg](https://i.postimg.cc/SNyN24XW/keshia.jpg)](https://postimg.cc/py6t4gJT)
 
 <br>
 
