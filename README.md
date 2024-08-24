@@ -43,3 +43,9 @@ Here are some ideas to get you started:
    <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/mysql.svg" width="30" height="30"/>
     </a> 
+   <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/javascript.svg" width="30" height="30"/>
+    </a>
+   <a  href="https://github.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/github.png" width="30" height="30"/>
+    </a>
