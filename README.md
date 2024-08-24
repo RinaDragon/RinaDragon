@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%23F7479B&lines=Keshia+Machaca+Cornejo+(RinaDragon)"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%23F7479B&lines=Keshia+Machaca+Cornejo+(RinaDragon)">
 
-<p align="center"> <img src="[![Dise-o-sin-t-tulo-21.png](https://i.postimg.cc/Cx1fKs00/Dise-o-sin-t-tulo-21.png)](https://postimg.cc/ppwdG8yc)"></p>
-
+"[![Dise-o-sin-t-tulo-21.png](https://i.postimg.cc/Cx1fKs00/Dise-o-sin-t-tulo-21.png)](https://postimg.cc/ppwdG8yc)
+</p>
 <br>
 
 <h3 align="center">Tecnologías que uso y sigo aprendiendo</h3>
